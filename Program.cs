@@ -4,4 +4,10 @@ for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{n}*{i}=\t{n*i}");
 }
+Console.WriteLine("table of 6");
+n = 6;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{n}*{i}=\t{n * i}");
+}
 
